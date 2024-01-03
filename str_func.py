@@ -6,7 +6,7 @@ def text_upper(text)->str:
 
 def str_title(text)->str:
 	"""
-	This function is made first char Upper
+	Все первые буквы заглавные
 	"""
 	return text.title()
 
