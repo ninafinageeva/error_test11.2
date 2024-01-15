@@ -1,6 +1,6 @@
 def text_upper(text)->str:
 	"""
-	функция переданной строки
+	изменить докстринг
 	"""
 	return text_upper()
 
