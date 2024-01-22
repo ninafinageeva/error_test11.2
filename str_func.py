@@ -1,12 +1,7 @@
 def text_upper(text)->str:
 	"""
-	изменить докстринг
+	change docstring again
 	"""
 	return text_upper()
 
-def str_title(text)->str:
-	"""
-	Все первые буквы заглавные
-	"""
-	return text.title()
 
